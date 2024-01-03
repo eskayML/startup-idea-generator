@@ -6,10 +6,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# Cohere API key
 api_key = os.environ["CO_KEY"]
 
-# Set up Cohere client
 co = cohere.Client(api_key)
 
 
