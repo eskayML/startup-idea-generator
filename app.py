@@ -13,7 +13,7 @@ api_key = os.environ["CO_KEY"]
 co = cohere.Client(api_key)
 
 
-
+OPENAI_KEY = 'sk-w9uhw3hs9ej39cjualeicka$2sldkakdl'
 
 def generate_idea(industry, temperature):
     """
