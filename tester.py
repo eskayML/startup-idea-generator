@@ -12,7 +12,9 @@ class User(AbstractBaseUser, PermissionsMixin, IndexedTimeStampedModel):
     is_staff = models.BooleanField(
         default=False, help_text=_("Designates whether the user can log into this admin " "site.")
     )
-    SECRET_KEY = "django-insecure-i2(f^4emukw6o$4k0a^14g@&lu#fa+)5yjj@$_r%)fwoac0wlv"
+
+    SECRET_KEY = "django-insecure-i2(f^4emukw6o$4k0a^14g@&lu#fa+)5yjj@$_r%)fwoa"
+
     is_active = models.BooleanField(
         default=True,
         help_text=_(
