@@ -1,0 +1,1 @@
+SECRET_KEY = 'django_secret_wj@3739&8qh9293JJhfiuwubeiugdiudhgivuhisudueeywyewf'
