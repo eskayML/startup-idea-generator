@@ -1,1 +1,1 @@
-HUGGING_FACE_KEY = 'hf_2yhhudhkdf2893ydjfkaldfjlkUUIUFH839uejw'
+HUGGING_FACE_KEY = 'hf_iwehoiuhfoihHGIUYOdfjlkUUIUFH839uejw'
