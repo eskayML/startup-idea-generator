@@ -1,3 +1,1 @@
-# HUGGING_FACE_KEY = 'hf_iwehoiuhfoihHGIUYOdfjluueueuskUUIUFH839uejw'
-
-DJANGO_SECRET = 'django-secure_weuowkhfjIIWUUEUkeiuefjieiett'
+SECRET_KEY = 'django-insecure-abcdefghijklmnopqrstuvwxyz1234_=+)'
