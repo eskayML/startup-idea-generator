@@ -1,1 +1,1 @@
-SECRET_KEY = 'django-insecure-abcdefghijklmnopqrstuvwxyz1234_=+)'
+OPENAI_KEY = 'sk-jwe489238y589Hheiuhfiw32j5eew3i'
