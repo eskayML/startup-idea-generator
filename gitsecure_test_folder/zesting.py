@@ -11,7 +11,9 @@ from django.views.decorators.csrf import csrf_exempt
 from django.template import Template
 
 # ligma balls
-# tinubu dey gba
+# tinubu dey 
+
+# where is buhari
 subprocess.call("grep -R {} .".format(sys.argv[1]), shell=True, cwd="/home/user")
 
 def bad3(request):
